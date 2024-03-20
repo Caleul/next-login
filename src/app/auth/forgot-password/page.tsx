@@ -1,5 +1,5 @@
 import Link from "next/link";
-import ForgotPasswordForm from "../modules/auth/components/forgot-password";
+import ForgotPasswordForm from "../../modules/auth/components/forgot-password";
 
 export default function Home() {
   return (

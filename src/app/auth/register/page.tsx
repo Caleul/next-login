@@ -1,5 +1,5 @@
 import Link from "next/link";
-import SingUpForm from "../modules/auth/components/sing-up-form";
+import SingUpForm from "../../modules/auth/components/sing-up-form";
 
 export default function Home() {
   return (
